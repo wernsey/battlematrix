@@ -1,0 +1,21 @@
+20 20 5
+FFFFFFFFFFFFFFFFFFFF
+F        F       2 F
+F   FF2       F  B F
+F   F    F  FFFFF  F
+FFF FF FFF         F
+F        FFF FFF FFF
+F    F   F    F    F
+F FFFFF    FFFFF   F
+F   F   FFFF       F
+F   F F    F F FF FF
+FF FF F F    F F   F
+F       FFFF   F   F
+F   FFFFF    FFFFF F
+F    F    F   F    F
+FFF FFF FFF        F
+F         FFF FF FFF
+F  FFFFF  F    F   F
+F A  F       1FF   F
+F 1       F        F
+FFFFFFFFFFFFFFFFFFFF
